@@ -42,8 +42,13 @@ Acá solo se enloquecían y ya
 <img width="1862" height="822" alt="image" src="https://github.com/user-attachments/assets/43d9f158-39ea-487f-a949-5d58134e3eb0" />
 
 
-Pero finalmente lo logre y llegue a lo que mi mente pensaba (despues de mucho)
+
+Pero finalmente lo logre y llegue a lo que mi mente pensaba (después de mucho)
 
 <img width="1857" height="872" alt="image" src="https://github.com/user-attachments/assets/45a4ddb9-5333-4d1b-b3bd-fcfb7f40df9f" />
 
 <img width="1861" height="832" alt="image" src="https://github.com/user-attachments/assets/187a4829-ff0d-426e-a1a3-2edba3bb4343" />
+
+
+
+### Autoevaluación: 3.5

@@ -7,6 +7,11 @@ Me basé en la idea del Pokémon Wishiwashi, el cual, por sí solo, es un pescad
 
 Quería mostrar que cuando muchos pescaditos se sincronizan, por así decirlo, forman algo mucho mejor y pues mucho más temible, lo cual hace que aunque tengan diferentes sonidos y apariencias, todos terminen volviéndose no solo con una apariencia temible y un sonido temible.
 
+Wishiwashi:
+
+<img width="800" height="738" alt="800px-Wishiwashi" src="https://github.com/user-attachments/assets/ddc686d0-7da9-4636-b266-0227867b2ef9" />
+
+
 ## Traducción del Modelo de Kuramoto y Variables
 El sistema implementa el modelo dinámico de Kuramoto adaptado a un entorno audiovisual en p5.js:
 * **Fase ($\theta$):** Representa el temporizador o ciclo interno de cada agente Wishiwashi individual, determinando cuándo parpadea en rojo brillante y emite su pulso sonoro.

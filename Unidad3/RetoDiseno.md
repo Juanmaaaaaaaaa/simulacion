@@ -1,7 +1,7 @@
 # Bitácora de Diseño: Instrumento Visual (Actividad 03)
 
 ## 1. Instrumento Funcional y Publicado
-* **URL:** 
+* **URL:** https://juanmaaaaaaaaa.github.io/unidad_3_simulacion/
 
 
 ## 2. Mapa del Sistema

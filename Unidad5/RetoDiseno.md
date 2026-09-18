@@ -32,7 +32,7 @@ Pero claude me dio un problema al principio y es que en la ultima diapositiva la
 
 
 
-pero luego lo arreglo y felicidad.
+pero luego lo arregló y felicidad.
 
 
 <img width="645" height="412" alt="image" src="https://github.com/user-attachments/assets/ff72a536-8030-46e4-b669-3410886ebe84" />
